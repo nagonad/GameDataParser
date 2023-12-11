@@ -1,0 +1,14 @@
+D:\C#\GameDataParser\GameDataParser\bin\Debug\net6.0\GameDataParser.exe
+D:\C#\GameDataParser\GameDataParser\bin\Debug\net6.0\GameDataParser.deps.json
+D:\C#\GameDataParser\GameDataParser\bin\Debug\net6.0\GameDataParser.runtimeconfig.json
+D:\C#\GameDataParser\GameDataParser\bin\Debug\net6.0\GameDataParser.dll
+D:\C#\GameDataParser\GameDataParser\bin\Debug\net6.0\GameDataParser.pdb
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.AssemblyInfoInputs.cache
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.AssemblyInfo.cs
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.csproj.CoreCompileInputs.cache
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.dll
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\refint\GameDataParser.dll
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.pdb
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\GameDataParser.genruntimeconfig.cache
+D:\C#\GameDataParser\GameDataParser\obj\Debug\net6.0\ref\GameDataParser.dll
